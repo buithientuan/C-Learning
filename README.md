@@ -112,4 +112,8 @@
 
 -> Phase 7: Giao tiếp Mạng CAN / CAN FD: CAN Frame, Arbitration, Baudrate, STM32 CAN Project
 
+<<<<<<< HEAD
 -> Phase 8: Kiến trúc Chuyên sâu ECU: Kiến trúc AUTOSAR, Tiêu chuẩn An toàn Chức năng ISO 26262
+=======
+-> Phase 8: Kiến trúc Chuyên sâu ECU: Kiến trúc AUTOSAR, Tiêu chuẩn An toàn Chức năng ISO 26262
+>>>>>>> 419e56a (Add C Learning Roadmap)
