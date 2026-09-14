@@ -95,6 +95,10 @@ int main() {
             case 4:
             printf("EXIT\n");
             break;
+
+            default: 
+            printf("LUA CHON KHONG HOP LE: %d\n", choice);
+            break;
         }
     } while (choice != 4);
 
